@@ -1,0 +1,9 @@
+.:
+    name: TTF
+    type: binary
+    extensions:
+        - ttf
+        - otf
+    doc: https://www.iana.org/assignments/media-types/font/ttf
+    ref:
+        - RFC8081

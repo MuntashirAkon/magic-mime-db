@@ -1,0 +1,8 @@
+.:
+    name: WOFF 2.0
+    type: binary
+    extensions:
+        - woff2
+    doc: https://www.iana.org/assignments/media-types/font/woff2
+    ref:
+        - RFC8081

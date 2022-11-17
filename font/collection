@@ -1,0 +1,8 @@
+.:
+    name: TTC
+    type: binary
+    extensions:
+        - ttc
+    doc: https://www.iana.org/assignments/media-types/font/collection
+    ref:
+        - RFC8081
