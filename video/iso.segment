@@ -1,0 +1,10 @@
+.:
+    name: ISO Segment
+    type: binary
+    parent: video/mpeg
+    extensions:
+        - m4s
+    doc: https://www.iana.org/assignments/media-types/video/iso.segment
+    ref:
+        - David_Singer
+        - ISO-IEC_JTC1

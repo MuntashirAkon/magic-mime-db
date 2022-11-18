@@ -1,0 +1,9 @@
+.:
+    name: MPEG Video URLs
+    type: binary
+    extensions:
+        - m4u
+        - mxu
+    doc: https://www.iana.org/assignments/media-types/video/vnd.mpegurl
+    ref:
+        - Heiko_Recktenwald

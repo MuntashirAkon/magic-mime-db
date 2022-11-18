@@ -1,0 +1,11 @@
+.:
+    name: MPEG-4
+    type: binary
+    parent: video/mpeg
+    extensions:
+        - mp4
+        - mpg4
+    doc: https://www.iana.org/assignments/media-types/video/mp4
+    ref:
+        - RFC4337
+        - RFC6381

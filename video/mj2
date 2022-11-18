@@ -1,0 +1,10 @@
+.:
+    name: Motion JPEG 2000
+    type: binary
+    magic: "X'0000 000C 6A50 2020 0D0A 870A'"
+    extensions:
+        - mj2
+        - mjp2
+    doc: https://www.iana.org/assignments/media-types/video/mj2
+    ref:
+        - RFC3745

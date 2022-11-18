@@ -1,0 +1,9 @@
+.:
+    name: FVT
+    type: binary
+    magic: FVT
+    extensions:
+        - fvt
+    doc: https://www.iana.org/assignments/media-types/video/vnd.fvt
+    ref:
+        - Arild_Fuldseth

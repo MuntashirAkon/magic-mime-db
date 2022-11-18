@@ -1,0 +1,9 @@
+.:
+    name: Nokia Interleaved Multimedia
+    type: binary
+    magic: "0x00 0x00 0x01 0xff"
+    extensions:
+        - nim
+    doc: https://www.iana.org/assignments/media-types/video/vnd.nokia.interleaved-multimedia
+    ref:
+        - Petteri_Kangaslampi

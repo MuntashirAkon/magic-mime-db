@@ -1,0 +1,18 @@
+.bink:
+    name: Bink
+    type: binary
+    extensions:
+        - bik
+        - bk2
+    doc: https://www.iana.org/assignments/media-types/video/vnd.radgamettools.bink
+    ref:
+        - Henrik_Andersson
+
+.smacker:
+    name: Smacker
+    type: binary
+    extensions:
+        - smk
+    doc: https://www.iana.org/assignments/media-types/video/vnd.radgamettools.smacker
+    ref:
+        - Henrik_Andersson

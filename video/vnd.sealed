@@ -1,0 +1,40 @@
+.mpeg1:
+    name: Sealed Media
+    type: binary
+    extensions:
+        - smpg
+        - sll
+    doc: https://www.iana.org/assignments/media-types/video/vnd.sealed.mpeg1
+    ref:
+        - David_Petersen
+
+.mpeg4:
+    name: Sealed Media
+    type: binary
+    extensions:
+        - smpg
+        - s14
+    doc: https://www.iana.org/assignments/media-types/video/vnd.sealed.mpeg4
+    ref:
+        - David_Petersen
+
+.swf:
+    name: Sealed Media
+    type: binary
+    extensions:
+        - ssw
+        - sswf
+    doc: https://www.iana.org/assignments/media-types/video/vnd.sealed.swf
+    ref:
+        - David_Petersen
+
+media.softseal.mov:
+    name: Sealed Media
+    type: binary
+    extensions:
+        - s1q
+        - smo
+        - smov
+    doc: https://www.iana.org/assignments/media-types/video/vnd.sealedmedia.softseal.mov
+    ref:
+        - David_Petersen

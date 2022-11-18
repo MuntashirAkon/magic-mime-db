@@ -1,0 +1,11 @@
+.:
+    name: OGG
+    type: binary
+    magic: "0x4f 0x67 0x67 0x53"
+    extensions:
+        - ogg
+        - ogv
+    doc: https://www.iana.org/assignments/media-types/video/ogg
+    ref:
+        - RFC5334
+        - RFC7845

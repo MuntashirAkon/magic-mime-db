@@ -1,0 +1,21 @@
+.:
+    name: 3GPP
+    type: binary
+    extensions:
+        - 3gp
+        - 3gpp
+    doc: https://www.iana.org/assignments/media-types/video/3gpp
+    ref:
+        - RFC3839
+        - RFC6381
+
+2:
+    name: 3GPP2
+    type: binary
+    extensions:
+        - 3g2
+        - 3gpp2
+    doc: https://www.iana.org/assignments/media-types/video/3gpp2
+    ref:
+        - RFC4393
+        - RFC6381

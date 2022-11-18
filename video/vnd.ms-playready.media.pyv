@@ -1,0 +1,8 @@
+.:
+    name: Microsoft PlayReady Media
+    type: binary
+    extensions:
+        - pyv
+    doc: https://www.iana.org/assignments/media-types/video/vnd.ms-playready.media.pyv
+    ref:
+        - Steve_DiAcetis

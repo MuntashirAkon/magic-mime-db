@@ -1,0 +1,59 @@
+.hd:
+    name: DECE HD
+    type: binary
+    extensions:
+        - uvh
+        - uvvh
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dece.hd
+    ref:
+        - Michael_A_Dolan
+
+.mobile:
+    name: DECE Mobile
+    type: binary
+    extensions:
+        - uvm
+        - uvvm
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dece.mobile
+    ref:
+        - Michael_A_Dolan
+
+.mp4:
+    name: DECE MP4
+    type: binary
+    extensions:
+        - uvu
+        - uvvu
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dece.mp4
+    ref:
+        - Michael_A_Dolan
+
+.pd:
+    name: DECE PD
+    type: binary
+    extensions:
+        - uvp
+        - uvvp
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dece.pd
+    ref:
+        - Michael_A_Dolan
+
+.sd:
+    name: DECE SD
+    type: binary
+    extensions:
+        - uvs
+        - uvvs
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dece.sd
+    ref:
+        - Michael_A_Dolan
+
+.video:
+    name: DECE Video
+    type: binary
+    extensions:
+        - uvv
+        - uvvv
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dece.video
+    ref:
+        - Michael_A_Dolan

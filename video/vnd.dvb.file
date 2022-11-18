@@ -1,0 +1,9 @@
+.:
+    name: DVB
+    type: binary
+    extensions:
+        - dvb
+    doc: https://www.iana.org/assignments/media-types/video/vnd.dvb.file
+    ref:
+        - Peter_Siebert
+        - Kevin_Murray

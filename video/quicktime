@@ -1,0 +1,10 @@
+.:
+    name: Quicktime Movie
+    type: binary
+    extensions:
+        - mov
+        - qt
+    doc: https://www.iana.org/assignments/media-types/video/quicktime
+    ref:
+        - RFC6381
+        - Paul_Lindner

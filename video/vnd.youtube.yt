@@ -1,0 +1,12 @@
+.:
+    name: YT
+    type: binary
+    parent: video/mpeg
+    magic: "0x79 0x74 0x34 0x20"
+    extensions:
+        - yt
+    aliases:
+        - application/vnd.youtube.yt
+    doc: https://www.iana.org/assignments/media-types/video/vnd.youtube.yt
+    ref:
+        - Google

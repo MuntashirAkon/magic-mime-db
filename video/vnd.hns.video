@@ -1,0 +1,8 @@
+.:
+    name: Real Media
+    type: binary
+    extensions:
+        - rm
+    doc: https://www.iana.org/assignments/media-types/video/vnd.hns.video
+    ref:
+        - Swaminathan
