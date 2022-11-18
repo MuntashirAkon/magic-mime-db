@@ -1,0 +1,9 @@
+.:
+    name: PROV-N
+    type: text
+    extensions:
+        - provn
+    doc: https://www.iana.org/assignments/media-types/text/provenance-notation
+    ref:
+        - W3C
+        - Ivan_Herman

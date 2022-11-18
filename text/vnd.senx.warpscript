@@ -1,0 +1,8 @@
+.:
+    name: WarpScript
+    type: text
+    extensions:
+        - mc2
+    doc: https://www.iana.org/assignments/media-types/text/vnd.senx.warpscript
+    ref:
+        - Pierre_Papin

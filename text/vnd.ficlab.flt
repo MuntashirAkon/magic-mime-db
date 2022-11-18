@@ -1,0 +1,8 @@
+.:
+    name: FicLab
+    type: text
+    extensions:
+        - flt
+    doc: https://www.iana.org/assignments/media-types/text/vnd.ficlab.flt
+    ref:
+        - Steve_Gilberd

@@ -1,0 +1,9 @@
+.:
+    name: Software Package Data Exchange® Document
+    type: text
+    extensions:
+        - spdx
+    doc: https://www.iana.org/assignments/media-types/text/spdx
+    ref:
+        - Linux_Foundation
+        - Rose_Judge

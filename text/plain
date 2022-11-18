@@ -1,0 +1,10 @@
+.:
+    name: Plain Text
+    type: text
+    extensions:
+        - txt
+    doc: https://www.w3.org/Protocols/rfc1341/7_1_Text.html
+    ref:
+        - RFC2046
+        - RFC3676
+        - RFC5147

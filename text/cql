@@ -1,0 +1,9 @@
+.:
+    name: Clinical Quality Language
+    type: text
+    extensions:
+        - cql
+    doc: https://www.iana.org/assignments/media-types/text/cql
+    ref:
+        - HL7
+        - Bryn_Rhodes

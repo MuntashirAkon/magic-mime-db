@@ -1,0 +1,21 @@
+.3dml:
+    name: 3DML
+    type: text
+    parent: text/xml
+    extensions:
+        - 3dm
+        - 3dml
+    doc: https://www.iana.org/assignments/media-types/text/vnd.in3d.3dml
+    ref:
+        - Michael_Powers
+
+.spot:
+    name: SPOT
+    type: text
+    parent: text/xml
+    extensions:
+        - spo
+        - spot
+    doc: https://www.iana.org/assignments/media-types/text/vnd.in3d.spot
+    ref:
+        - Michael_Powers

@@ -1,0 +1,9 @@
+.:
+    name: Subtitle
+    type: text
+    extensions:
+        - sub
+    doc: https://www.iana.org/assignments/media-types/text/vnd.dvb.subtitle
+    ref:
+        - Peter_Siebert
+        - Michael_Lagally

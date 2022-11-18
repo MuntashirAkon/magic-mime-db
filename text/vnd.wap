@@ -1,0 +1,39 @@
+.si:
+    name: Service Indication
+    type: text
+    parent: text/xml
+    extensions:
+        - si
+    doc: https://www.iana.org/assignments/media-types/text/vnd.wap.si
+    ref:
+        - WAP-Forum
+
+.sl:
+    name: Service Loading
+    type: text
+    parent: text/xml
+    extensions:
+        - sl
+    doc: https://www.iana.org/assignments/media-types/text/vnd.wap.sl
+    ref:
+        - WAP-Forum
+
+.wml:
+    name: WML
+    type: text
+    parent: text/xml
+    extensions:
+        - wml
+    doc: https://www.iana.org/assignments/media-types/text/vnd.wap.wml
+    ref:
+        - Peter_Stark
+
+.wmlscript:
+    name: WMLScript
+    type: text
+    parent: text/xml
+    extensions:
+        - wmls
+    doc: https://www.iana.org/assignments/media-types/text/vnd.wap.wmlscript
+    ref:
+        - Peter_Stark

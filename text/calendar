@@ -1,0 +1,9 @@
+.:
+    name: iCalendar
+    type: text
+    extensions:
+        - ics
+        - ifb
+    doc: https://www.iana.org/assignments/media-types/text/calendar
+    ref:
+        - RFC5545

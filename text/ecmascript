@@ -1,0 +1,14 @@
+.:
+    name: ECMAScript
+    type: text
+    extensions:
+        - .es
+        - .mjs
+    aliases:
+        - application/ecmascript
+        - application/x-ecmascript
+        - text/x-ecmascript
+    replaced_by: text/javascript
+    doc: https://www.iana.org/assignments/media-types/text/ecmascript
+    ref:
+        - RFC9239

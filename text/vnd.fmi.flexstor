@@ -1,0 +1,9 @@
+.:
+    name: FLEXSTOR
+    type: text
+    magic: flexstor
+    extensions:
+        - flx
+    doc: https://www.iana.org/assignments/media-types/text/vnd.fmi.flexstor
+    ref:
+        - Kari_E._Hurtta

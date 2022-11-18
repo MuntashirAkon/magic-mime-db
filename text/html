@@ -1,0 +1,10 @@
+.:
+    name: HTML
+    type: text
+    extensions:
+        - html
+        - htm
+    doc: https://www.iana.org/assignments/media-types/text/html
+    ref:
+        - W3C
+        - Robin_Berjon

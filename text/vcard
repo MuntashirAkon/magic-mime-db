@@ -1,0 +1,12 @@
+.:
+    name: vCard
+    type: text
+    extensions:
+        - vcard
+        - vcf
+    aliases:
+        - text/directory
+        - text/x-vcard
+    doc: https://www.iana.org/assignments/media-types/text/vcard
+    ref:
+        - RFC6350

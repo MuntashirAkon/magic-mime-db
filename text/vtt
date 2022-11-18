@@ -1,0 +1,9 @@
+.:
+    name: WebVTT
+    type: text
+    extensions:
+        - vtt
+    doc: https://www.iana.org/assignments/media-types/text/vtt
+    ref:
+        - W3C
+        - Silvia_Pfeiffer

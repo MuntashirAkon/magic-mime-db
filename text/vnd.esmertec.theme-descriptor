@@ -1,0 +1,8 @@
+.:
+    name: Esmertec Theme Descriptor
+    type: text
+    extensions:
+        - jtd
+    doc: https://www.iana.org/assignments/media-types/text/vnd.esmertec.theme-descriptor
+    ref:
+        - Stefan_Eilemann

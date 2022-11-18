@@ -1,0 +1,9 @@
+.:
+    name: CSV
+    type: text
+    extensions:
+        - csv
+    doc: https://www.iana.org/assignments/media-types/text/csv
+    ref:
+        - RFC4180
+        - RFC7111

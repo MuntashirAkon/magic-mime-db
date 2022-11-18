@@ -1,0 +1,8 @@
+.:
+    name: CURL
+    type: text
+    extensions:
+        - curl
+    doc: https://www.iana.org/assignments/media-types/text/vnd.curl
+    ref:
+        - Robert_Byrnes

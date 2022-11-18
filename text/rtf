@@ -1,0 +1,9 @@
+.:
+    name: RTF
+    type: text
+    magic: "{\\rtf"
+    extensions:
+        - rtf
+    doc: https://www.iana.org/assignments/media-types/text/rtf
+    ref:
+        - Paul_Lindner

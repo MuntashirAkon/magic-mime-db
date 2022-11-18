@@ -1,0 +1,8 @@
+.:
+    name: Tab Separated Values
+    type: text
+    extensions:
+        - tsv
+    doc: https://www.iana.org/assignments/media-types/text/tab-separated-values
+    ref:
+        - Paul_Lindner

@@ -1,0 +1,9 @@
+.:
+    name: ShEx Compact Syntax
+    type: text
+    extensions:
+        - shex
+    doc: https://www.iana.org/assignments/media-types/text/shex
+    ref:
+        - W3C
+        - Eric_Prudhommeaux

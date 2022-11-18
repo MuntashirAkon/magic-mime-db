@@ -1,0 +1,9 @@
+.:
+    name: URI List
+    type: text
+    extensions:
+        - uri
+        - uris
+    doc: https://www.iana.org/assignments/media-types/text/uri-list
+    ref:
+        - RFC2483

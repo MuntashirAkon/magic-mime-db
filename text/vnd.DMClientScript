@@ -1,0 +1,8 @@
+.:
+    name: DM Client Script
+    type: text
+    extensions:
+        - dms
+    doc: https://www.iana.org/assignments/media-types/text/vnd.DMClientScript
+    ref:
+        - Dan_Bradley

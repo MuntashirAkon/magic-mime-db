@@ -1,0 +1,9 @@
+.:
+    name: Markdown
+    type: text
+    extensions:
+        - md
+        - markdown
+    doc: https://www.iana.org/assignments/media-types/text/markdown
+    ref:
+        - RFC7763

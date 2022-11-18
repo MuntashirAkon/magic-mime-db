@@ -1,0 +1,8 @@
+.:
+    name: ABC Language
+    type: text
+    extensions:
+        - abc
+    doc: https://www.iana.org/assignments/media-types/text/vnd.abc
+    ref:
+        - Steve_Allen

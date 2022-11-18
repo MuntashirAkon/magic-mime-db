@@ -1,0 +1,9 @@
+.:
+    name: Graphviz
+    type: text
+    extensions:
+        - gv
+        - dot
+    doc: https://www.iana.org/assignments/media-types/text/vnd.graphviz
+    ref:
+        - John_Ellson

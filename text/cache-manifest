@@ -1,0 +1,11 @@
+.:
+    name: Cache Manifest
+    type: text
+    magic: CACHE MANIFEST\t\r\n
+    extensions:
+        - appcache
+        - manifest
+    doc: https://www.iana.org/assignments/media-types/text/cache-manifest
+    ref:
+        - W3C
+        - Robin_Berjon

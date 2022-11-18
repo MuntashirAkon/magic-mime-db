@@ -1,0 +1,9 @@
+.:
+    name: Notation3
+    type: text
+    extensions:
+        - n3
+    doc: https://www.iana.org/assignments/media-types/text/n3
+    ref:
+        - W3C
+        - Eric_Prudhommeaux

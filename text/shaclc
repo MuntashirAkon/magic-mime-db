@@ -1,0 +1,10 @@
+.:
+    name: SHACL Compact Syntax
+    type: text
+    extensions:
+        - shaclc
+        - shc
+    doc: https://www.iana.org/assignments/media-types/text/shaclc
+    ref:
+        - W3C_SHACL_Community_Group
+        - Vladimir_Alexiev

@@ -1,0 +1,8 @@
+.:
+    name: Hans
+    type: text
+    extensions:
+        - hans
+    doc: https://www.iana.org/assignments/media-types/text/vnd.hans
+    ref:
+        - Hill_Hanxv

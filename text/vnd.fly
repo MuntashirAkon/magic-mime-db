@@ -1,0 +1,8 @@
+.:
+    name: FLY
+    type: text
+    extensions:
+        - fly
+    doc: https://www.iana.org/assignments/media-types/text/vnd.fly
+    ref:
+        - John-Mark_Gurney

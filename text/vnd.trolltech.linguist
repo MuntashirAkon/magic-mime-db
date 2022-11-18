@@ -1,0 +1,9 @@
+.:
+    name: Qt Linguist
+    type: text
+    magic: "<!DOCTYPE TS><TS>"
+    extensions:
+        - ts
+    doc: https://www.iana.org/assignments/media-types/text/vnd.trolltech.linguist
+    ref:
+        - David_Lee_Lambert

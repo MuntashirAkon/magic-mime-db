@@ -1,0 +1,9 @@
+.:
+    name: CSV Schema
+    type: text
+    extensions:
+        - csvs
+    doc: https://www.iana.org/assignments/media-types/text/csv-schema
+    ref:
+        - National_Archives_UK
+        - David_Underdown

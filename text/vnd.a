@@ -1,0 +1,8 @@
+.:
+    name: A Language
+    type: text
+    extensions:
+        - a
+    doc: https://www.iana.org/assignments/media-types/text/vnd.a
+    ref:
+        - Regis_Dehoux

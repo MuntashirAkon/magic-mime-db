@@ -1,0 +1,8 @@
+.:
+    name: GEDCOM
+    type: text
+    extensions:
+        - ged
+    doc: https://www.iana.org/assignments/media-types/text/vnd.familysearch.gedcom
+    ref:
+        - Gordon_Clarke

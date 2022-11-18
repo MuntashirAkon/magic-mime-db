@@ -1,0 +1,8 @@
+.:
+    name: Czech Real Estate Cadastre
+    type: text
+    extensions:
+        - vfk
+    doc: https://www.iana.org/assignments/media-types/text/vnd.exchangeable
+    ref:
+        - Martin_Cizek

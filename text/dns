@@ -1,0 +1,9 @@
+.:
+    name: DNS Information
+    type: text
+    extensions:
+        - soa
+        - zone
+    doc: https://www.iana.org/assignments/media-types/text/dns
+    ref:
+        - RFC4027

@@ -1,0 +1,11 @@
+.:
+    name: ASCII Art
+    type: text
+    extensions:
+        - ascii
+    aliases:
+        - text/x-ascii-art
+        - image/ascii-art
+    doc: https://www.iana.org/assignments/media-types/text/vnd.ascii-art
+    ref:
+        - Kim_Scarborough

@@ -1,0 +1,18 @@
+.:
+    name: XML
+    type: text
+    extensions:
+        - xml
+    doc: https://www.iana.org/assignments/media-types/text/xml
+    ref:
+        - RFC7303
+
+-external-parsed-entity:
+    name: XML External Parsed Entity
+    type: text
+    parent: application/xml
+    extensions:
+        - ent
+    doc: https://www.iana.org/assignments/media-types/text/xml-external-parsed-entity
+    ref:
+        - RFC7303

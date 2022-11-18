@@ -1,0 +1,8 @@
+.:
+    name: Mizar
+    type: text
+    extensions:
+        - miz
+    doc: https://www.iana.org/assignments/media-types/text/mizar
+    ref:
+        - Jesse_Alama

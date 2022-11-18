@@ -1,0 +1,9 @@
+.:
+    name: Turtle
+    type: text
+    extensions:
+        - ttl
+    doc: https://www.iana.org/assignments/media-types/text/turtle
+    ref:
+        - W3C
+        - Eric_Prudhommeaux

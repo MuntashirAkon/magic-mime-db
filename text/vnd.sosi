@@ -1,0 +1,8 @@
+.:
+    name: SOSI
+    type: text
+    extensions:
+        - sos
+    doc: https://www.iana.org/assignments/media-types/text/vnd.sosi
+    ref:
+        - Petter_Reinholdtsen

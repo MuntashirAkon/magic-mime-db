@@ -1,0 +1,8 @@
+.:
+    name: HGL
+    type: text
+    extensions:
+        - hgl
+    doc: https://www.iana.org/assignments/media-types/text/vnd.hgl
+    ref:
+        - Heungsub_Lee

@@ -1,0 +1,8 @@
+.:
+    name: CSS
+    type: text
+    extensions:
+        - css
+    doc: https://www.iana.org/assignments/media-types/text/css
+    ref:
+        - RFC2318

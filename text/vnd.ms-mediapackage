@@ -1,0 +1,9 @@
+.:
+    name: Microsoft Media Package
+    type: text
+    parent: text/xml
+    extensions:
+        - mpf
+    doc: https://www.iana.org/assignments/media-types/text/vnd.ms-mediapackage
+    ref:
+        - Jan_Nelson
