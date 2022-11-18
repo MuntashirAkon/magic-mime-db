@@ -1,0 +1,8 @@
+.:
+    name: Voice Message
+    type: binary
+    extensions:
+        - vpm
+    doc: https://www.iana.org/assignments/media-types/multipart/voice-message
+    ref:
+        - RFC3801

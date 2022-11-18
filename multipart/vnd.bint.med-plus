@@ -1,0 +1,8 @@
+.:
+    name: BINTmed Affinity Domain
+    type: binary
+    extensions:
+        - bmed
+    doc: https://www.iana.org/assignments/media-types/multipart/vnd.bint.med-plus
+    ref:
+        - Heinz-Peter_Schütz
