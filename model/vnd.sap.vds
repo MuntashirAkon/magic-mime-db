@@ -1,0 +1,9 @@
+.:
+    name: VDS
+    type: binary
+    extensions:
+        - vds
+    doc: https://www.iana.org/assignments/media-types/model/vnd.sap.vds
+    ref:
+        - SAP_SE
+        - Igor_Afanasyev

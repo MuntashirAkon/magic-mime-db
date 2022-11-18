@@ -1,0 +1,10 @@
+.:
+    name: PYTHA Object
+    type: binary
+    magic: "50 59 54 48 41 5F 4F 42"
+    extensions:
+        - pyo
+        - pyox
+    doc: https://www.iana.org/assignments/media-types/model/vnd.pytha.pyox
+    ref:
+        - Daniel_Flassig

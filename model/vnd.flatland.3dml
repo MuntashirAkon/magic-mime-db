@@ -1,0 +1,10 @@
+.:
+    name: 3 Dimensional Markup Language
+    type: text
+    parent: text/xml
+    extensions:
+        - 3dm
+        - 3dml
+    doc: https://www.iana.org/assignments/media-types/model/vnd.flatland.3dml
+    ref:
+        - Michael_Powers

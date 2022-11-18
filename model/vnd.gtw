@@ -1,0 +1,9 @@
+.:
+    name: Gen-Trix Web
+    type: text
+    parent: text/plain
+    extensions:
+        - gtw
+    doc: https://www.iana.org/assignments/media-types/model/vnd.gtw
+    ref:
+        - Yutaka_Ozaki

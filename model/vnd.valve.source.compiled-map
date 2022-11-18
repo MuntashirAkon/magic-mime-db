@@ -1,0 +1,9 @@
+.:
+    name: BSP
+    type: binary
+    magic: VBSP
+    extensions:
+        - bsp
+    doc: https://www.iana.org/assignments/media-types/model/vnd.valve.source.compiled-map
+    ref:
+        - Henrik_Andersson

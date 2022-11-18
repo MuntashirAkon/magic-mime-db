@@ -1,0 +1,46 @@
+.:
+    name: STEP
+    type: binary
+    extensions:
+        - "210"
+        - p21
+        - step
+        - stp
+        - stpnc
+    doc: https://www.iana.org/assignments/media-types/model/step
+    ref:
+        - ISO-TC_184-SC_4
+        - Dana_Tripp
+
++xml:
+    name: STEP
+    type: text
+    parent: text/xml
+    extensions:
+        - stpx
+    doc: https://www.iana.org/assignments/media-types/model/step+xml
+    ref:
+        - ISO-TC_184-SC_4
+        - Dana_Tripp
+
++zip:
+    name: STEP
+    type: binary
+    parent: application/zip
+    extensions:
+        - stpz
+    doc: https://www.iana.org/assignments/media-types/model/step+zip
+    ref:
+        - ISO-TC_184-SC_4
+        - Dana_Tripp
+
+-xml+zip:
+    name: STEP
+    type: binary
+    parent: application/zip
+    extensions:
+        - stpxz
+    doc: https://www.iana.org/assignments/media-types/model/step-xml+zip
+    ref:
+        - ISO-TC_184-SC_4
+        - Dana_Tripp

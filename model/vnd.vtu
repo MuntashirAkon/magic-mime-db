@@ -1,0 +1,8 @@
+.:
+    name: VTU
+    type: binary
+    extensions:
+        - vtu
+    doc: https://www.iana.org/assignments/media-types/model/vnd.vtu
+    ref:
+        - Boris_Rabinovitch

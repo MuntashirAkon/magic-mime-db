@@ -1,0 +1,20 @@
+.binary:
+    name: Parasolid
+    type: binary
+    extensions:
+        - X_B
+        - xmt_bin # Deprecated
+    doc: https://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit.binary
+    ref:
+        - Parasolid
+
+.text:
+    name: Parasolid
+    type: text
+    parent: text/plain
+    extensions:
+        - X_T
+        - xmt_txt # Deprecated
+    doc: https://www.iana.org/assignments/media-types/model/vnd.parasolid.transmit.text
+    ref:
+        - Parasolid

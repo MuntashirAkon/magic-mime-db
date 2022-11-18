@@ -1,0 +1,10 @@
+.:
+    name: Universal 3D # Used in PDF
+    type: binary
+    magic: "0x55 33 44 00"
+    extensions:
+        - u3d
+    doc: https://www.iana.org/assignments/media-types/model/u3d
+    ref:
+        - PDF_Association
+        - Peter_Wyatt

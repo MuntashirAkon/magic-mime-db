@@ -1,0 +1,22 @@
+-binary:
+    name: glTF™ Binary
+    type: binary
+    magic: "0x46546C67"
+    extensions:
+        - glb
+    doc: https://www.iana.org/assignments/media-types/model/gltf-binary
+    ref:
+        - Khronos
+        - Saurabh_Bhatia
+
++json:
+    name: glTF™ JSON
+    type: binary
+    parent: application/json
+    magic: "0x46546C67"
+    extensions:
+        - gltf
+    doc: https://www.iana.org/assignments/media-types/model/gltf+json
+    ref:
+        - Khronos
+        - Uli_Klumpp

@@ -1,0 +1,20 @@
+a:
+    name: USDA utf-8 Universal Scene Description
+    type: text
+    parent: text/plain
+    magic: "#usda MAJOR.MINOR"
+    extensions:
+        - usda
+    doc: https://www.iana.org/assignments/media-types/model/vnd.usda
+    ref:
+        - Sebastian_Grassia
+
+z+zip:
+    name: USDZ Universal Scene Description
+    type: binary
+    parent: application/zip
+    extensions:
+        - usdz
+    doc: https://www.iana.org/assignments/media-types/model/vnd.usdz+zip
+    ref:
+        - Sebastian_Grassia

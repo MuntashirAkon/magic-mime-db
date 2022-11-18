@@ -1,0 +1,10 @@
+.:
+    name: Product Representation Compact
+    type: binary
+    magic: "PRC"
+    extensions:
+        - prc
+    doc: https://www.iana.org/assignments/media-types/model/prc
+    ref:
+        - ISO-TC_171-SC_2
+        - Betsy_Fanning

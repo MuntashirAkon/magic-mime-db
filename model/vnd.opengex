@@ -1,0 +1,8 @@
+.:
+    name: OpenGEX
+    type: binary
+    extensions:
+        - ogex
+    doc: https://www.iana.org/assignments/media-types/model/vnd.opengex
+    ref:
+        - Eric_Lengyel

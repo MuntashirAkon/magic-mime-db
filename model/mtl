@@ -1,0 +1,11 @@
+.:
+    name: Wavefront Material Template Library
+    type: text
+    parent: text/plain
+    extensions:
+        - mtl
+    doc: https://www.iana.org/assignments/media-types/model/mtl
+    ref:
+        - DICOM_Standard_Committee
+        - DICOM_WG_17
+        - Carolyn_Hull

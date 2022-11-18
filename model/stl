@@ -1,0 +1,10 @@
+.:
+    name: StereoLithography
+    type: binary
+    extensions:
+        - stl
+    doc: https://www.iana.org/assignments/media-types/model/stl
+    ref:
+        - DICOM_Standard_Committee
+        - DICOM_WG_17
+        - Carolyn_Hull

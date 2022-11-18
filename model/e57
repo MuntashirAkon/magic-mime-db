@@ -1,0 +1,8 @@
+.:
+    name: ASTM E57 3D
+    type: binary
+    extensions:
+        - e57
+    doc: https://www.iana.org/assignments/media-types/model/e57
+    ref:
+        - ASTM

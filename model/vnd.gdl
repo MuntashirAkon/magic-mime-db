@@ -1,0 +1,15 @@
+.:
+    name: Geometric Description Language
+    type: binary
+    extensions:
+        - dor
+        - gdl
+        - gsm
+        - ism
+        - lmp
+        - msm
+        - rsm
+        - win
+    doc: https://www.iana.org/assignments/media-types/model/vnd.gdl
+    ref:
+        - Attila_Babits

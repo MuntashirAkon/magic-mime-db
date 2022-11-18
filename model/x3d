@@ -1,0 +1,31 @@
+-vrml:
+    name: X3D
+    type: text
+    parent: model/vrml
+    magic: "#X3D"
+    extensions:
+        - x3dv
+    doc: https://www.iana.org/assignments/media-types/model/x3d-vrml
+    ref:
+        - Web3D
+        - Web3D_X3D
+
++fastinfoset:
+    name: X3D
+    type: binary
+    extensions:
+        - x3db
+    doc: https://www.iana.org/assignments/media-types/model/x3d+fastinfoset
+    ref:
+        - Web3D_X3D
+
++xml:
+    name: X3D
+    type: text
+    parent: text/xml
+    extensions:
+        - x3d
+    doc: https://www.iana.org/assignments/media-types/model/x3d+xml
+    ref:
+        - Web3D
+        - Web3D_X3D

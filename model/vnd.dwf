@@ -1,0 +1,8 @@
+.:
+    name: DWF
+    type: binary
+    extensions:
+        - dwf
+    doc: https://www.iana.org/assignments/media-types/model/vnd.dwf
+    ref:
+        - Jason_Pratt

@@ -1,0 +1,10 @@
+.:
+    name: COLLADA
+    type: text
+    parent: text/xml
+    magic: "<COLLADA> as root"
+    extensions:
+        - dae
+    doc: https://www.iana.org/assignments/media-types/model/vnd.collada+xml
+    ref:
+        - James_Riordon

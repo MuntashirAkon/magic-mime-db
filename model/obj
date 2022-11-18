@@ -1,0 +1,11 @@
+.:
+    name: Wavefront OBJ
+    type: text
+    parent: text/plain
+    extensions:
+        - obj
+    doc: https://www.iana.org/assignments/media-types/model/obj
+    ref:
+        - DICOM_Standard_Committee
+        - DICOM_WG_17
+        - Carolyn_Hull

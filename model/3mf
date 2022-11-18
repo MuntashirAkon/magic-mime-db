@@ -1,0 +1,11 @@
+.:
+    name: 3MF
+    type: binary
+    parent: application/zip
+    extensions:
+        - 3mf
+    doc: https://www.iana.org/assignments/media-types/model/3mf
+    ref:
+        - http://www.3mf.io/specification
+        - _3MF
+        - Michael_Sweet
