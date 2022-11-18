@@ -1,0 +1,11 @@
+.:
+    name: Virtual Reality Modeling Language
+    type: text
+    parent: text/plain
+    extensions:
+        - wrl
+    aliases:
+        - application/x-cc3d
+    doc: https://www.iana.org/assignments/media-types/message/disposition-notification
+    ref:
+        - RFC8098
