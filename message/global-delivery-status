@@ -1,0 +1,9 @@
+.:
+    name: Delivery Status Notification
+    type: text
+    parent: text/plain
+    extensions:
+        - u8dsn
+    doc: https://www.iana.org/assignments/media-types/message/global-delivery-status
+    ref:
+        - RFC6533

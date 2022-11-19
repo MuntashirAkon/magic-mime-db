@@ -1,0 +1,9 @@
+.:
+    name: Internationalized Email Headers
+    type: text
+    parent: text/plain
+    extensions:
+        - u8hdr
+    doc: https://www.iana.org/assignments/media-types/message/global-headers
+    ref:
+        - RFC6533

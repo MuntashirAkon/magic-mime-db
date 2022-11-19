@@ -1,0 +1,9 @@
+.:
+    name: Disposition Notification
+    type: text
+    parent: text/plain
+    extensions:
+        - u8mdn
+    doc: https://www.iana.org/assignments/media-types/message/global-disposition-notification
+    ref:
+        - RFC6533

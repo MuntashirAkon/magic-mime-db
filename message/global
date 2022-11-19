@@ -1,0 +1,9 @@
+.:
+    name: Global
+    type: text
+    parent: text/plain
+    extensions:
+        - u8msg
+    doc: https://www.iana.org/assignments/media-types/message/global
+    ref:
+        - RFC6532

@@ -1,0 +1,9 @@
+.:
+    name: Disposition Notification
+    type: text
+    parent: text/plain
+    extensions:
+        - disposition-notification
+    doc: https://www.iana.org/assignments/media-types/message/disposition-notification
+    ref:
+        - RFC8098

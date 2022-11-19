@@ -1,0 +1,9 @@
+.:
+    name: IMDN
+    type: text
+    parent: text/xml
+    extensions:
+        - cl
+    doc: https://www.iana.org/assignments/media-types/message/imdn+xml
+    ref:
+        - RFC5438
